@@ -243,7 +243,7 @@ Episode 1473	Average Score: 13.06
 Environment solved in 1373 episodes!	Average Score: 13.06
 ```
 
-![Learning Scores](learning scores.png)
+![Learning Scores](learning-scores.png)
 
 ## Improvements
 
